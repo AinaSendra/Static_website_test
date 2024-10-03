@@ -25,3 +25,12 @@ folder_topic/article_topic
 
 folder_topic/article_test
 ```
+
+
+```{toctree}
+:maxdepth: 1
+:hidden:
+:caption: New Topic
+
+newtopic/creating_a_website
+```
