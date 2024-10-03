@@ -21,7 +21,7 @@ folder_topic/article_topic
 ```{toctree}
 :maxdepth: 1
 :hidden:
-:caption: Introduction
+:caption: Tecan crosstraining
 
 folder_topic/article_test
 ```
