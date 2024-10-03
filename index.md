@@ -32,5 +32,5 @@ folder_topic/article_test
 :hidden:
 :caption: New Topic
 
-newtopic/creating_a_webstie
+newtopic/creating_a_website
 ```
